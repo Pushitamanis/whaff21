@@ -1,0 +1,2 @@
+2023-01-10 16:52:41 23734/23734 D/PretiumManager: [doLoadLocalStatusSync] from = X8Application_onCreate_loadLocalStatusSync, file = /data/user/0/com.f1player/files/pretium, file not exist, use none
+
